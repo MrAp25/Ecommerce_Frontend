@@ -126,7 +126,11 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/bootstrap.min.js+slick.min.js.pagespeed.jc.3oMYTFFUTv.js",
+              "src/assets/js/jquery.min.js",
+              "src/assets/js/nouislider.min.js+jquery.zoom.min.js+main.js.pagespeed.jc.UI7AC5_B6N.js"
+            ]
           }
         }
       }
